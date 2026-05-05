@@ -1,0 +1,1 @@
+.\git_secure_setup.ps1 -repoName "my-project" -username "your-username"

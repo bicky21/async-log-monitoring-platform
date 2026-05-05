@@ -1,0 +1,2 @@
+chmod +x git_secure_setup.sh
+./git_secure_setup.sh my-project your-username
